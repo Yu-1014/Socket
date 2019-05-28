@@ -1,0 +1,10 @@
+E:\Project\Socket\Socket_Code\bin\Debug\Socket_Code.exe.config
+E:\Project\Socket\Socket_Code\bin\Debug\Socket_Code.exe
+E:\Project\Socket\Socket_Code\bin\Debug\Socket_Code.pdb
+E:\Project\Socket\Socket_Code\obj\Debug\Socket_Code.Form1.resources
+E:\Project\Socket\Socket_Code\obj\Debug\Socket_Code.Properties.Resources.resources
+E:\Project\Socket\Socket_Code\obj\Debug\Socket_Clicnt_Code.csproj.GenerateResource.cache
+E:\Project\Socket\Socket_Code\obj\Debug\Socket_Clicnt_Code.csproj.CoreCompileInputs.cache
+E:\Project\Socket\Socket_Code\obj\Debug\Socket_Code.exe
+E:\Project\Socket\Socket_Code\obj\Debug\Socket_Code.pdb
+E:\Project\Socket\Socket_Code\obj\Debug\Socket_Clicnt_Code.csprojAssemblyReference.cache
